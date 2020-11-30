@@ -1,4 +1,4 @@
-# House_Sales_Prediction_Machine_Learning
+# House Sales Prediction
 
 ## Problem
 In recent years, investment in property has been enjoyed by many people. This causes the demand for property in the King County area to be higher than the number of existing properties. By taking advantage of this prospect, overseas-based property developer A wants to expand its business area in King County, USA. However, property developer A does not know the market price of the house and what variables affect the price of the house. Prediction of house price fixing is needed so that property developer A can compete with other property developers.
