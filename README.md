@@ -16,5 +16,3 @@ Build a model to predict house price fixing in the King County area by property 
 ![alt text](kingcounty.JPG)
 - From the map of King County above, the area that has the highest average price is around Lake Washington, followed by the surrounding areas. Areas far from Lake Washington have prices that are quite low
 
-## Machine Learning
-
