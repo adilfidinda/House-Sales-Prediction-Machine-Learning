@@ -1,10 +1,10 @@
 # House Sales Prediction
 
 ## Problem
-In recent years, investment in property has been enjoyed by many people. This causes the demand for property in the King County area to be higher than the number of existing properties. By taking advantage of this prospect, overseas-based property developer A wants to expand its business area in King County, USA. However, property developer A does not know the market price of the house and what variables affect the price of the house. Prediction of house price fixing is needed so that property developer A can compete with other property developers.
+In recent years, investment in property has been enjoyed by many people. This causes the demand for property in the King County area to be higher than the number of existing properties. By taking advantage of this prospect, overseas-based property developer A wants to expand their business area in King County, USA. However, developer A don't have an idea of the market price and what variables affect the price of the house. Prediction of house price is needed so that developer A can compete with other property developers.
 
 ## Goals
-Build a model to predict house price fixing in the King County area by property developer A.
+Build a model to predict house price in the King County area by property developer A.
 
 ## Consclusion
 - Most of the sale house are sold have 3 - 5 bedrooms
